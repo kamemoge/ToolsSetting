@@ -1,0 +1,24 @@
+@-moz-document domain("forexchannel.net") {
+header,h3,footer, div.breadcrumbs, .sidebar, .adCenter, .one-third, .one-fourth {
+  display: none !important;
+}
+h2 {
+  margin: 0;
+  margin-top: 40px;
+  position: absolute;
+}
+section.primary-content {
+  padding-top: 0;
+}
+div.one-half {
+  margin: 0;
+  width: auto;
+}
+img {
+  padding: 2px !important;
+  margin: 0 !important;
+}
+.clearfix:after{ {
+  clear: none;
+}
+}
