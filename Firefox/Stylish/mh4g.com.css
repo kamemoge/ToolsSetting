@@ -1,0 +1,10 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("mh4g.com") {
+  #header {height:auto;}
+  .logo {display:none;}
+  .hlink {display:none;}
+  .coment {display:none;}
+  .ad-top {display:none;}
+  #r-right {display:none;}
+}

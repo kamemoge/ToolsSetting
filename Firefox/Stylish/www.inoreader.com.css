@@ -1,0 +1,12 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+p {
+font-family:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', sans-serif;
+}
+
+@-moz-document domain("inoreader.com") {
+  p>a>img {width:25px;}
+  p>a:first-child>img {width:100px;}
+}
+
+
